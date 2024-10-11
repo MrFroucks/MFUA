@@ -1,0 +1,575 @@
+{\rtf1\ansi\deff3\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset204 Liberation Serif{\*\falt Times New Roman};}{\f4\fnil\fprq2\fcharset204 Liberation Serif{\*\falt Times New Roman};}{\f5\fnil\fprq2\fcharset204 Liberation Sans{\*\falt Arial};}{\f6\fnil\fprq0\fcharset204 Segoe WPC{\*\falt Segoe UI};}{\f7\fnil\fprq0\fcharset2 OpenSymbol{\*\falt Arial Unicode MS};}{\f8\fnil\fprq2\fcharset204 NSimSun;}{\f9\fnil\fprq2\fcharset204 Microsoft YaHei;}{\f10\fnil\fprq2\fcharset204 OpenSymbol{\*\falt Arial Unicode MS};}{\f11\fnil\fprq2\fcharset204 Lucida Sans;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red214\green214\blue221;}
+{\stylesheet{\s0\snext0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052 Normal;}
+{\s3\sbasedon224\snext3\rtlch\af11\afs28\alang1081\ab \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\sb140\sa120\keepn\ltrpar\cf0\f4\fs28\lang1049\b\kerning1\dbch\af8\langfe2052 heading 3;}
+{\*\cs15\snext15 \u1057\'d1\u1080\'e8\u1084\'ec\u1074\'e2\u1086\'ee\u1083\'eb \u1085\'ed\u1091\'f3\u1084\'ec\u1077\'e5\u1088\'f0\u1072\'e0\u1094\'f6\u1080\'e8\u1080\'e8;}
+{\*\cs16\snext16 ListLabel 1;}
+{\*\cs17\snext17 ListLabel 2;}
+{\*\cs18\snext18 ListLabel 3;}
+{\*\cs19\snext19 ListLabel 4;}
+{\*\cs20\snext20 ListLabel 5;}
+{\*\cs21\snext21 ListLabel 6;}
+{\*\cs22\snext22 ListLabel 7;}
+{\*\cs23\snext23 ListLabel 8;}
+{\*\cs24\snext24 ListLabel 9;}
+{\*\cs25\snext25\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 10;}
+{\*\cs26\snext26 ListLabel 11;}
+{\*\cs27\snext27 ListLabel 12;}
+{\*\cs28\snext28 ListLabel 13;}
+{\*\cs29\snext29 ListLabel 14;}
+{\*\cs30\snext30 ListLabel 15;}
+{\*\cs31\snext31 ListLabel 16;}
+{\*\cs32\snext32 ListLabel 17;}
+{\*\cs33\snext33 ListLabel 18;}
+{\*\cs34\snext34\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 19;}
+{\*\cs35\snext35 ListLabel 20;}
+{\*\cs36\snext36 ListLabel 21;}
+{\*\cs37\snext37 ListLabel 22;}
+{\*\cs38\snext38 ListLabel 23;}
+{\*\cs39\snext39 ListLabel 24;}
+{\*\cs40\snext40 ListLabel 25;}
+{\*\cs41\snext41 ListLabel 26;}
+{\*\cs42\snext42 ListLabel 27;}
+{\*\cs43\snext43\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 28;}
+{\*\cs44\snext44 ListLabel 29;}
+{\*\cs45\snext45 ListLabel 30;}
+{\*\cs46\snext46 ListLabel 31;}
+{\*\cs47\snext47 ListLabel 32;}
+{\*\cs48\snext48 ListLabel 33;}
+{\*\cs49\snext49 ListLabel 34;}
+{\*\cs50\snext50 ListLabel 35;}
+{\*\cs51\snext51 ListLabel 36;}
+{\*\cs52\snext52\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 37;}
+{\*\cs53\snext53 ListLabel 38;}
+{\*\cs54\snext54 ListLabel 39;}
+{\*\cs55\snext55 ListLabel 40;}
+{\*\cs56\snext56 ListLabel 41;}
+{\*\cs57\snext57 ListLabel 42;}
+{\*\cs58\snext58 ListLabel 43;}
+{\*\cs59\snext59 ListLabel 44;}
+{\*\cs60\snext60 ListLabel 45;}
+{\*\cs61\snext61\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 46;}
+{\*\cs62\snext62 ListLabel 47;}
+{\*\cs63\snext63 ListLabel 48;}
+{\*\cs64\snext64 ListLabel 49;}
+{\*\cs65\snext65 ListLabel 50;}
+{\*\cs66\snext66 ListLabel 51;}
+{\*\cs67\snext67 ListLabel 52;}
+{\*\cs68\snext68 ListLabel 53;}
+{\*\cs69\snext69 ListLabel 54;}
+{\*\cs70\snext70 ListLabel 55;}
+{\*\cs71\snext71 ListLabel 56;}
+{\*\cs72\snext72 ListLabel 57;}
+{\*\cs73\snext73 ListLabel 58;}
+{\*\cs74\snext74 ListLabel 59;}
+{\*\cs75\snext75 ListLabel 60;}
+{\*\cs76\snext76 ListLabel 61;}
+{\*\cs77\snext77 ListLabel 62;}
+{\*\cs78\snext78 ListLabel 63;}
+{\*\cs79\snext79 ListLabel 64;}
+{\*\cs80\snext80 ListLabel 65;}
+{\*\cs81\snext81 ListLabel 66;}
+{\*\cs82\snext82 ListLabel 67;}
+{\*\cs83\snext83 ListLabel 68;}
+{\*\cs84\snext84 ListLabel 69;}
+{\*\cs85\snext85 ListLabel 70;}
+{\*\cs86\snext86 ListLabel 71;}
+{\*\cs87\snext87 ListLabel 72;}
+{\*\cs88\snext88\rtlch\af10 \ltrch ListLabel 73;}
+{\*\cs89\snext89 ListLabel 74;}
+{\*\cs90\snext90 ListLabel 75;}
+{\*\cs91\snext91 ListLabel 76;}
+{\*\cs92\snext92 ListLabel 77;}
+{\*\cs93\snext93 ListLabel 78;}
+{\*\cs94\snext94 ListLabel 79;}
+{\*\cs95\snext95 ListLabel 80;}
+{\*\cs96\snext96 ListLabel 81;}
+{\*\cs97\snext97\rtlch\af10 \ltrch ListLabel 82;}
+{\*\cs98\snext98 ListLabel 83;}
+{\*\cs99\snext99 ListLabel 84;}
+{\*\cs100\snext100 ListLabel 85;}
+{\*\cs101\snext101 ListLabel 86;}
+{\*\cs102\snext102 ListLabel 87;}
+{\*\cs103\snext103 ListLabel 88;}
+{\*\cs104\snext104 ListLabel 89;}
+{\*\cs105\snext105 ListLabel 90;}
+{\*\cs106\snext106\rtlch\af10 \ltrch ListLabel 91;}
+{\*\cs107\snext107 ListLabel 92;}
+{\*\cs108\snext108 ListLabel 93;}
+{\*\cs109\snext109 ListLabel 94;}
+{\*\cs110\snext110 ListLabel 95;}
+{\*\cs111\snext111 ListLabel 96;}
+{\*\cs112\snext112 ListLabel 97;}
+{\*\cs113\snext113 ListLabel 98;}
+{\*\cs114\snext114 ListLabel 99;}
+{\*\cs115\snext115\rtlch\af10 \ltrch ListLabel 100;}
+{\*\cs116\snext116 ListLabel 101;}
+{\*\cs117\snext117 ListLabel 102;}
+{\*\cs118\snext118 ListLabel 103;}
+{\*\cs119\snext119 ListLabel 104;}
+{\*\cs120\snext120 ListLabel 105;}
+{\*\cs121\snext121 ListLabel 106;}
+{\*\cs122\snext122 ListLabel 107;}
+{\*\cs123\snext123 ListLabel 108;}
+{\*\cs124\snext124\rtlch\af10 \ltrch ListLabel 109;}
+{\*\cs125\snext125 ListLabel 110;}
+{\*\cs126\snext126 ListLabel 111;}
+{\*\cs127\snext127 ListLabel 112;}
+{\*\cs128\snext128 ListLabel 113;}
+{\*\cs129\snext129 ListLabel 114;}
+{\*\cs130\snext130 ListLabel 115;}
+{\*\cs131\snext131 ListLabel 116;}
+{\*\cs132\snext132 ListLabel 117;}
+{\*\cs133\snext133\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 118;}
+{\*\cs134\snext134 ListLabel 119;}
+{\*\cs135\snext135 ListLabel 120;}
+{\*\cs136\snext136 ListLabel 121;}
+{\*\cs137\snext137 ListLabel 122;}
+{\*\cs138\snext138 ListLabel 123;}
+{\*\cs139\snext139 ListLabel 124;}
+{\*\cs140\snext140 ListLabel 125;}
+{\*\cs141\snext141 ListLabel 126;}
+{\*\cs142\snext142\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 127;}
+{\*\cs143\snext143 ListLabel 128;}
+{\*\cs144\snext144 ListLabel 129;}
+{\*\cs145\snext145 ListLabel 130;}
+{\*\cs146\snext146 ListLabel 131;}
+{\*\cs147\snext147 ListLabel 132;}
+{\*\cs148\snext148 ListLabel 133;}
+{\*\cs149\snext149 ListLabel 134;}
+{\*\cs150\snext150 ListLabel 135;}
+{\*\cs151\snext151\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 136;}
+{\*\cs152\snext152 ListLabel 137;}
+{\*\cs153\snext153 ListLabel 138;}
+{\*\cs154\snext154 ListLabel 139;}
+{\*\cs155\snext155 ListLabel 140;}
+{\*\cs156\snext156 ListLabel 141;}
+{\*\cs157\snext157 ListLabel 142;}
+{\*\cs158\snext158 ListLabel 143;}
+{\*\cs159\snext159 ListLabel 144;}
+{\*\cs160\snext160\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 145;}
+{\*\cs161\snext161 ListLabel 146;}
+{\*\cs162\snext162 ListLabel 147;}
+{\*\cs163\snext163 ListLabel 148;}
+{\*\cs164\snext164 ListLabel 149;}
+{\*\cs165\snext165 ListLabel 150;}
+{\*\cs166\snext166 ListLabel 151;}
+{\*\cs167\snext167 ListLabel 152;}
+{\*\cs168\snext168 ListLabel 153;}
+{\*\cs169\snext169\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 154;}
+{\*\cs170\snext170 ListLabel 155;}
+{\*\cs171\snext171 ListLabel 156;}
+{\*\cs172\snext172 ListLabel 157;}
+{\*\cs173\snext173 ListLabel 158;}
+{\*\cs174\snext174 ListLabel 159;}
+{\*\cs175\snext175 ListLabel 160;}
+{\*\cs176\snext176 ListLabel 161;}
+{\*\cs177\snext177 ListLabel 162;}
+{\*\cs178\snext178\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 163;}
+{\*\cs179\snext179 ListLabel 164;}
+{\*\cs180\snext180 ListLabel 165;}
+{\*\cs181\snext181 ListLabel 166;}
+{\*\cs182\snext182 ListLabel 167;}
+{\*\cs183\snext183 ListLabel 168;}
+{\*\cs184\snext184 ListLabel 169;}
+{\*\cs185\snext185 ListLabel 170;}
+{\*\cs186\snext186 ListLabel 171;}
+{\*\cs187\snext187\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 172;}
+{\*\cs188\snext188 ListLabel 173;}
+{\*\cs189\snext189 ListLabel 174;}
+{\*\cs190\snext190 ListLabel 175;}
+{\*\cs191\snext191 ListLabel 176;}
+{\*\cs192\snext192 ListLabel 177;}
+{\*\cs193\snext193 ListLabel 178;}
+{\*\cs194\snext194 ListLabel 179;}
+{\*\cs195\snext195 ListLabel 180;}
+{\*\cs196\snext196\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 181;}
+{\*\cs197\snext197 ListLabel 182;}
+{\*\cs198\snext198 ListLabel 183;}
+{\*\cs199\snext199 ListLabel 184;}
+{\*\cs200\snext200 ListLabel 185;}
+{\*\cs201\snext201 ListLabel 186;}
+{\*\cs202\snext202 ListLabel 187;}
+{\*\cs203\snext203 ListLabel 188;}
+{\*\cs204\snext204 ListLabel 189;}
+{\*\cs205\snext205\rtlch\af10 \ltrch\hich\af4\loch\f4 ListLabel 190;}
+{\*\cs206\snext206 ListLabel 191;}
+{\*\cs207\snext207 ListLabel 192;}
+{\*\cs208\snext208 ListLabel 193;}
+{\*\cs209\snext209 ListLabel 194;}
+{\*\cs210\snext210 ListLabel 195;}
+{\*\cs211\snext211 ListLabel 196;}
+{\*\cs212\snext212 ListLabel 197;}
+{\*\cs213\snext213 ListLabel 198;}
+{\*\cs214\snext214 ListLabel 199;}
+{\*\cs215\snext215 ListLabel 200;}
+{\*\cs216\snext216 ListLabel 201;}
+{\*\cs217\snext217 ListLabel 202;}
+{\*\cs218\snext218 ListLabel 203;}
+{\*\cs219\snext219 ListLabel 204;}
+{\*\cs220\snext220 ListLabel 205;}
+{\*\cs221\snext221 ListLabel 206;}
+{\*\cs222\snext222 ListLabel 207;}
+{\*\cs223\snext223\rtlch\af7 \ltrch\hich\af7\loch\f7\dbch\af7 \u1052\'3f\u1072\'3f\u1088\'3f\u1082\'3f\u1077\'3f\u1088\'3f\u1099\'3f;}
+{\s224\sbasedon0\snext225\rtlch\af11\afs28\alang1081 \ltrch\lang1049\langfe2052\hich\af5\loch\ql\nowidctlpar\hyphpar0\sb240\sa120\keepn\ltrpar\cf0\f5\fs28\lang1049\kerning1\dbch\af9\langfe2052 \u1047\'c7\u1072\'e0\u1075\'e3\u1086\'ee\u1083\'eb\u1086\'ee\u1074\'e2\u1086\'ee\u1082\'ea;}
+{\s225\sbasedon0\snext225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052 Body Text;}
+{\s226\sbasedon225\snext226\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052 List;}
+{\s227\sbasedon0\snext227\rtlch\af11\afs24\alang1081\ai \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\sb120\sa120\ltrpar\cf0\f4\fs24\lang1049\i\kerning1\dbch\af8\langfe2052 caption;}
+{\s228\sbasedon0\snext228\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052 \u1059\'d3\u1082\'ea\u1072\'e0\u1079\'e7\u1072\'e0\u1090\'f2\u1077\'e5\u1083\'eb\u1100\'fc;}
+}{\*\listtable{\list\listtemplateid1
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f12\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid1}
+{\list\listtemplateid2
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f12\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid2}
+{\list\listtemplateid3
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f12\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid3}
+{\list\listtemplateid4
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f12\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid4}
+{\list\listtemplateid5
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f12\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid5}
+{\list\listtemplateid6
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f13\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid6}
+{\list\listtemplateid7
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f13\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid7}
+{\list\listtemplateid8
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f13\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid8}
+{\list\listtemplateid9
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f13\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid9}
+{\list\listtemplateid10
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f13\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid10}
+{\list\listtemplateid11
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f13\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid11}
+{\list\listtemplateid12
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f13\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid12}
+{\list\listtemplateid13
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f13\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid13}
+{\list\listtemplateid14
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f13\rtlch\af10 \ltrch\loch\fi-283\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid14}
+{\list\listtemplateid15
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'00.;}{\levelnumbers\'01;}\fi-360\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid15}
+{\list\listtemplateid16
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li720}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li3600}\listid16}
+{\list\listtemplateid17
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li720}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li3600}\listid17}
+{\list\listtemplateid18
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li720}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li3600}\listid18}
+{\list\listtemplateid19
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li720}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f7\rtlch\af7 \ltrch\loch\fi-360\li3600}\listid19}
+{\list\listtemplateid20
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi0\li0}\listid20}
+}{\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}{\listoverride\listid11\listoverridecount0\ls11}{\listoverride\listid12\listoverridecount0\ls12}{\listoverride\listid13\listoverridecount0\ls13}{\listoverride\listid14\listoverridecount0\ls14}{\listoverride\listid15\listoverridecount0\ls15}{\listoverride\listid16\listoverridecount0\ls16}{\listoverride\listid17\listoverridecount0\ls17}{\listoverride\listid18\listoverridecount0\ls18}{\listoverride\listid19\listoverridecount0\ls19}{\listoverride\listid20\listoverridecount0\ls20}}{\*\generator LibreOffice/24.8.0.3$Windows_X86_64 LibreOffice_project/0bdf1299c94fe897b119f97f3c613e9dca6be583}{\info{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr2024\mo10\dy11\hr15\min23}{\printim\yr0\mo0\dy0\hr0\min0}}{\*\userprops}\deftab709
+\hyphauto1\viewscale100\formshade\paperh16838\paperw11906\margl1134\margr1134\margt1134\margb1134\sectd\sbknone\sftnnar\saftnnrlc\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\ftnbj\ftnstart1\ftnrstcont\ftnnar\fet\aftnrstcont\aftnstart1\aftnnrlc
+{\*\ftnsep\chftnsep}\pgndec\pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\qc{\rtlch\afs32\ab \ltrch\loch\fs32\b\loch
+\u1050\'ca\u1086\'ee\u1085\'ed\u1090\'f2\u1088\'f0\u1086\'ee\u1083\'eb\u1100\'fc\u1085\'ed\u1099\'fb\u1077\'e5 \u1074\'e2\u1086\'ee\u1087\'ef\u1088\'f0\u1086\'ee\u1089\'f1\u1099\'fb (0}{\rtlch\afs32\ab \ltrch\loch\fs32\b\loch
+7}{\rtlch\afs32\ab \ltrch\loch\fs32\b\loch
+.10.2024)}
+\par \pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\qc{\rtlch\afs32\ab \ltrch\loch\fs32\b\loch
+\u1041\'c1\u1086\'ee\u1088\'f0\u1080\'e8\u1089\'f1\u1086\'ee\u1074\'e2 \u1040\'c0\u1085\'ed\u1090\'f2\u1086\'ee\u1085\'ed 9184}
+\par \pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\qc{\rtlch\afs32\ab \ltrch\loch\fs32\b\loch
+\u1042\'c2\u1072\'e0\u1088\'f0\u1080\'e8\u1072\'e0\u1085\'ed\u1090\'f2 2}
+\par \pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\qj\rtlch\afs28\ab \ltrch\loch\fs28\b\loch
+
+\par \pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\qj\rtlch\afs28\ab \ltrch\loch\fs28\b\loch
+
+\par \pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\qc{\rtlch\afs28\ai0\ab0 \ltrch\loch\fs28\i0\ulnone\ulc0\b0\loch
+1. }{\rtlch\afs28\ai0\ab0 \ltrch\loch\fs28\i0\ulnone\ulc0\b0\loch
+\u1055\'cf\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1100\'fc \u1080\'e8 \u1079\'e7\u1072\'e0\u1087\'ef\u1086\'ee\u1084\'ec\u1080\'e8\u1085\'ed\u1072\'e0\u1102\'fe\u1097\'f9\u1080\'e8\u1077\'e5 \u1091\'f3\u1089\'f1\u1090\'f2\u1088\'f0\u1086\'ee\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2\u1072\'e0}
+\par \pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\qj\rtlch\afs28\ab0 \ltrch\loch\fs28\b0\loch
+
+\par \pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\qj{\rtlch\ai0\ab0 \ltrch\loch\i0\ulnone\ulc0\b0\loch
+\tab \u1055\'cf\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1100\'fc \u8212\'97 \u1074\'e2\u1088\'f0\u1077\'e5\u1084\'ec\u1077\'e5\u1085\'ed\u1085\'ed\u1086\'ee\u1077\'e5 \u1093\'f5\u1088\'f0\u1072\'e0\u1085\'ed\u1080\'e8\u1083\'eb\u1080\'e8\u1097\'f9\u1077\'e5 \u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1093\'f5, \u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1086\'ee\u1077\'e5 \u1080\'e8\u1089\'f1\u1087\'ef\u1086\'ee\u1083\'eb\u1100\'fc\u1079\'e7\u1091\'f3\u1077\'e5\u1090\'f2\u1089\'f1\u1103\'ff \u1076\'e4\u1083\'eb\u1103\'ff \u1073\'e1\u1099\'fb\u1089\'f1\u1090\'f2\u1088\'f0\u1086\'ee\u1075\'e3\u1086\'ee \u1076\'e4\u1086\'ee\u1089\'f1\u1090\'f2\u1091\'f3\u1087\'ef\u1072\'e0 \u1082\'ea \u1080\'e8\u1085\'ed\u1092\'f4\u1086\'ee\u1088\'f0\u1084\'ec\u1072\'e0\u1094\'f6\u1080\'e8\u1080\'e8, \u1085\'ed\u1077\'e5\u1086\'ee\u1073\'e1\u1093\'f5\u1086\'ee\u1076\'e4\u1080\'e8\u1084\'ec\u1086\'ee\u1081\'e9 \u1076\'e4\u1083\'eb\u1103\'ff \u1074\'e2\u1099\'fb\u1087\'ef\u1086\'ee\u1083\'eb\u1085\'ed\u1077\'e5\u1085\'ed\u1080\'e8\u1103\'ff \u1090\'f2\u1077\'e5\u1082\'ea\u1091\'f3\u1097\'f9\u1080\'e8\u1093\'f5 \u1079\'e7\u1072\'e0\u1076\'e4\u1072\'e0\u1095\'f7. \u1054\'ce\u1089\'f1\u1085\'ed\u1086\'ee\u1074\'e2\u1085\'ed\u1099\'fb\u1077\'e5 \u1093\'f5\u1072\'e0\u1088\'f0\u1072\'e0\u1082\'ea\u1090\'f2\u1077\'e5\u1088\'f0\u1080\'e8\u1089\'f1\u1090\'f2\u1080\'e8\u1082\'ea\u1080\'e8 \u1087\'ef\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1080\'e8:}
+\par \pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain  1.\tab}\ilvl0\ls15 \fi-360\li720\lin720\qj{\rtlch\ai0\ab0 \ltrch\loch\i0\ulnone\ulc0\b\loch
+\u1054\'ce\u1087\'ef\u1077\'e5\u1088\'f0\u1072\'e0\u1090\'f2\u1080\'e8\u1074\'e2\u1085\'ed\u1072\'e0\u1103\'ff\~\u1087\'ef\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1100\'fc (\u1054\'ce\u1055\'cf)}{\rtlch\ai0\ab0 \ltrch\loch\i0\ulnone\ulc0\b0\loch
+:}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af7 \ltrch\hich\af7\loch\f7\dbch\af7 \u9702\'3f\tab}\ilvl1\ls16 \fi-360\li1080\lin1080\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1069\'dd\u1090\'f2\u1086\'ee \u1090\'f2\u1080\'e8\u1087\'ef\~\u1087\'ef\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1080\'e8, \u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1099\'fb\u1081\'e9\~\u1080\'e8\u1089\'f1\u1087\'ef\u1086\'ee\u1083\'eb\u1100\'fc\u1079\'e7\u1091\'f3\u1077\'e5\u1090\'f2\u1089\'f1\u1103\'ff\~\u1076\'e4\u1083\'eb\u1103\'ff \u1074\'e2\u1088\'f0\u1077\'e5\u1084\'ec\u1077\'e5\u1085\'ed\u1085\'ed\u1086\'ee\u1075\'e3\u1086\'ee \u1093\'f5\u1088\'f0\u1072\'e0\u1085\'ed\u1077\'e5\u1085\'ed\u1080\'e8\u1103\'ff\~\u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1093\'f5\~\u1080\'e8 \u1080\'e8\u1085\'ed\u1089\'f1\u1090\'f2\u1088\'f0\u1091\'f3\u1082\'ea\u1094\'f6\u1080\'e8\u1081\'e9, \u1085\'ed\u1077\'e5\u1086\'ee\u1073\'e1\u1093\'f5\u1086\'ee\u1076\'e4\u1080\'e8\u1084\'ec\u1099\'fb\u1093\'f5\~\u1087\'ef\u1088\'f0\u1086\'ee\u1094\'f6\u1077\'e5\u1089\'f1\u1089\'f1\u1086\'ee\u1088\'f0\u1091\'f3 \u1074\'e2\u1086\'ee \u1074\'e2\u1088\'f0\u1077\'e5\u1084\'ec\u1103\'ff\~\u1074\'e2\u1099\'fb\u1087\'ef\u1086\'ee\u1083\'eb\u1085\'ed\u1077\'e5\u1085\'ed\u1080\'e8\u1103\'ff\~\u1087\'ef\u1088\'f0\u1086\'ee\u1075\'e3\u1088\'f0\u1072\'e0\u1084\'ec\u1084\'ec. \u1054\'ce\u1055\'cf \u1103\'ff\u1074\'e2\u1083\'eb\u1103\'ff\u1077\'e5\u1090\'f2\u1089\'f1\u1103\'ff\~\u1101\'fd\u1085\'ed\u1077\'e5\u1088\'f0\u1075\'e3\u1086\'ee\u1079\'e7\u1072\'e0\u1074\'e2\u1080\'e8\u1089\'f1\u1080\'e8\u1084\'ec\u1086\'ee\u1081\'e9, \u1095\'f7\u1090\'f2\u1086\'ee \u1086\'ee\u1079\'e7\u1085\'ed\u1072\'e0\u1095\'f7\u1072\'e0\u1077\'e5\u1090\'f2, \u1095\'f7\u1090\'f2\u1086\'ee\~\u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1077\'e5 \u1090\'f2\u1077\'e5\u1088\'f0\u1103\'ff\u1102\'fe\u1090\'f2\u1089\'f1\u1103\'ff\~\u1087\'ef\u1088\'f0\u1080\'e8 \u1086\'ee\u1090\'f2\u1082\'ea\u1083\'eb\u1102\'fe\u1095\'f7\u1077\'e5\u1085\'ed\u1080\'e8\u1080\'e8 \u1087\'ef\u1080\'e8\u1090\'f2\u1072\'e0\u1085\'ed\u1080\'e8\u1103\'ff.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\rtlch\ab0 \ltrch\loch\b0
+      }{\rtlch\ab0 \ltrch\loch\b0\loch
+2.}{\loch\b\loch
+   }{\loch\b\loch
+\u1050\'ca\u1101\'fd\u1096\'f8-\u1087\'ef\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1100\'fc}{\loch
+:}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af7 \ltrch\hich\af7\loch\f7\dbch\af7 \u9702\'3f\tab}\ilvl1\ls17 \fi-360\li1080\lin1080\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1069\'dd\u1090\'f2\u1086\'ee \u1085\'ed\u1077\'e5\u1073\'e1\u1086\'ee\u1083\'eb\u1100\'fc\u1096\'f8\u1072\'e0\u1103\'ff, \u1085\'ed\u1086\'ee\~\u1086\'ee\u1095\'f7\u1077\'e5\u1085\'ed\u1100\'fc \u1073\'e1\u1099\'fb\u1089\'f1\u1090\'f2\u1088\'f0\u1072\'e0\u1103\'ff\~\u1087\'ef\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1100\'fc, \u1088\'f0\u1072\'e0\u1089\'f1\u1087\'ef\u1086\'ee\u1083\'eb\u1086\'ee\u1078\'e6\u1077\'e5\u1085\'ed\u1085\'ed\u1072\'e0\u1103\'ff\~\u1085\'ed\u1077\'e5\u1087\'ef\u1086\'ee\u1089\'f1\u1088\'f0\u1077\'e5\u1076\'e4\u1089\'f1\u1090\'f2\u1074\'e2\u1077\'e5\u1085\'ed\u1085\'ed\u1086\'ee \u1074\'e2\~\u1087\'ef\u1088\'f0\u1086\'ee\u1094\'f6\u1077\'e5\u1089\'f1\u1089\'f1\u1086\'ee\u1088\'f0\u1077\'e5 \u1080\'e8\u1083\'eb\u1080\'e8 \u1088\'f0\u1103\'ff\u1076\'e4\u1086\'ee\u1084\'ec\~\u1089\'f1 \u1085\'ed\u1080\'e8\u1084\'ec. \u1054\'ce\u1085\'ed\u1072\'e0\~\u1080\'e8\u1089\'f1\u1087\'ef\u1086\'ee\u1083\'eb\u1100\'fc\u1079\'e7\u1091\'f3\u1077\'e5\u1090\'f2\u1089\'f1\u1103\'ff \u1076\'e4\u1083\'eb\u1103\'ff\~\u1093\'f5\u1088\'f0\u1072\'e0\u1085\'ed\u1077\'e5\u1085\'ed\u1080\'e8\u1103\'ff \u1095\'f7\u1072\'e0\u1089\'f1\u1090\'f2\u1086\'ee\~\u1080\'e8\u1089\'f1\u1087\'ef\u1086\'ee\u1083\'eb\u1100\'fc\u1079\'e7\u1091\'f3\u1077\'e5\u1084\'ec\u1099\'fb\u1093\'f5\~\u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1093\'f5 \u1080\'e8 \u1080\'e8\u1085\'ed\u1089\'f1\u1090\'f2\u1088\'f0\u1091\'f3\u1082\'ea\u1094\'f6\u1080\'e8\u1081\'e9, \u1095\'f7\u1090\'f2\u1086\'ee\u1073\'e1\u1099\'fb\~\u1091\'f3\u1089\'f1\u1082\'ea\u1086\'ee\u1088\'f0\u1080\'e8\u1090\'f2\u1100\'fc \u1076\'e4\u1086\'ee\u1089\'f1\u1090\'f2\u1091\'f3\u1087\'ef \u1082\'ea\~\u1085\'ed\u1080\'e8\u1084\'ec. }
+\par \pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\qj{\loch
+\tab \u1047\'c7\u1072\'e0\u1087\'ef\u1086\'ee\u1084\'ec\u1080\'e8\u1085\'ed\u1072\'e0\u1102\'fe\u1097\'f9\u1077\'e5\u1077\'e5 \u1091\'f3\u1089\'f1\u1090\'f2\u1088\'f0\u1086\'ee\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2\u1086\'ee \u8212\'97 \u1086\'ee\u1073\'e1\u1097\'f9\u1077\'e5\u1077\'e5 \u1087\'ef\u1086\'ee\u1085\'ed\u1103\'ff\u1090\'f2\u1080\'e8\u1077\'e5, \u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1086\'ee\u1077\'e5 \u1074\'e2\u1082\'ea\u1083\'eb\u1102\'fe\u1095\'f7\u1072\'e0\u1077\'e5\u1090\'f2 \u1074\'e2 \u1089\'f1\u1077\'e5\u1073\'e1\u1103\'ff \u1074\'e2\u1089\'f1\u1077\'e5 \u1091\'f3\u1089\'f1\u1090\'f2\u1088\'f0\u1086\'ee\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2\u1072\'e0, \u1087\'ef\u1088\'f0\u1077\'e5\u1076\'e4\u1085\'ed\u1072\'e0\u1079\'e7\u1085\'ed\u1072\'e0\u1095\'f7\u1077\'e5\u1085\'ed\u1085\'ed\u1099\'fb\u1077\'e5 \u1076\'e4\u1083\'eb\u1103\'ff \u1093\'f5\u1088\'f0\u1072\'e0\u1085\'ed\u1077\'e5\u1085\'ed\u1080\'e8\u1103\'ff \u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1093\'f5, \u1082\'ea\u1072\'e0\u1082\'ea \u1074\'e2\u1088\'f0\u1077\'e5\u1084\'ec\u1077\'e5\u1085\'ed\u1085\'ed\u1086\'ee, \u1090\'f2\u1072\'e0\u1082\'ea \u1080\'e8 \u1087\'ef\u1086\'ee\u1089\'f1\u1090\'f2\u1086\'ee\u1103\'ff\u1085\'ed\u1085\'ed\u1086\'ee. \u1054\'ce\u1089\'f1\u1085\'ed\u1086\'ee\u1074\'e2\u1085\'ed\u1099\'fb\u1077\'e5 \u1093\'f5\u1072\'e0\u1088\'f0\u1072\'e0\u1082\'ea\u1090\'f2\u1077\'e5\u1088\'f0\u1080\'e8\u1089\'f1\u1090\'f2\u1080\'e8\u1082\'ea\u1080\'e8 \u1079\'e7\u1072\'e0\u1087\'ef\u1086\'ee\u1084\'ec\u1080\'e8\u1085\'ed\u1072\'e0\u1102\'fe\u1097\'f9\u1080\'e8\u1093\'f5 \u1091\'f3\u1089\'f1\u1090\'f2\u1088\'f0\u1086\'ee\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2:}
+\par \pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\qj{\loch
+\tab 1.\~}{\loch\b\loch
+\u1055\'cf\u1086\'ee\u1089\'f1\u1090\'f2\u1086\'ee\u1103\'ff\u1085\'ed\u1085\'ed\u1072\'e0\u1103\'ff\~\u1087\'ef\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1100\'fc}{\loch
+:}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af7 \ltrch\hich\af7\loch\f7\dbch\af7 \u9642\'3f\tab}\ilvl2\ls18 \fi-360\li1440\lin1440\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1069\'dd\u1090\'f2\u1086\'ee \u1090\'f2\u1080\'e8\u1087\'ef \u1087\'ef\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1080\'e8, \u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1099\'fb\u1081\'e9\~\u1089\'f1\u1086\'ee\u1093\'f5\u1088\'f0\u1072\'e0\u1085\'ed\u1103\'ff\u1077\'e5\u1090\'f2 \u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1077\'e5 \u1076\'e4\u1072\'e0\u1078\'e6\u1077\'e5 \u1087\'ef\u1088\'f0\u1080\'e8 \u1086\'ee\u1090\'f2\u1082\'ea\u1083\'eb\u1102\'fe\u1095\'f7\u1077\'e5\u1085\'ed\u1080\'e8\u1080\'e8 \u1087\'ef\u1080\'e8\u1090\'f2\u1072\'e0\u1085\'ed\u1080\'e8\u1103\'ff. \u1055\'cf\u1088\'f0\u1080\'e8\u1084\'ec\u1077\'e5\u1088\'f0\u1099\'fb\~\u1074\'e2\u1082\'ea\u1083\'eb\u1102\'fe\u1095\'f7\u1072\'e0\u1102\'fe\u1090\'f2\~\u1078\'e6\u1077\'e5\u1089\'f1\u1090\'f2\u1082\'ea\u1080\'e8\u1077\'e5\~\u1076\'e4\u1080\'e8\u1089\'f1\u1082\'ea\u1080\'e8\~(HDD), \u1090\'f2\u1074\'e2\u1077\'e5\u1088\'f0\u1076\'e4\u1086\'ee\u1090\'f2\u1077\'e5\u1083\'eb\u1100\'fc\u1085\'ed\u1099\'fb\u1077\'e5 \u1085\'ed\u1072\'e0\u1082\'ea\u1086\'ee\u1087\'ef\u1080\'e8\u1090\'f2\u1077\'e5\u1083\'eb\u1080\'e8\~(SSD) \u1080\'e8\~\u1092\'f4\u1083\'eb\u1077\'e5\u1096\'f8-\u1085\'ed\u1072\'e0\u1082\'ea\u1086\'ee\u1087\'ef\u1080\'e8\u1090\'f2\u1077\'e5\u1083\'eb\u1080\'e8.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af7 \ltrch\hich\af7\loch\f7\dbch\af7 \u9642\'3f\tab}\ilvl2\ls18 \fi-360\li1440\lin1440\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1055\'cf\u1086\'ee\u1089\'f1\u1090\'f2\u1086\'ee\u1103\'ff\u1085\'ed\u1085\'ed\u1072\'e0\u1103\'ff \u1087\'ef\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1100\'fc \u1080\'e8\u1089\'f1\u1087\'ef\u1086\'ee\u1083\'eb\u1100\'fc\u1079\'e7\u1091\'f3\u1077\'e5\u1090\'f2\u1089\'f1\u1103\'ff\~\u1076\'e4\u1083\'eb\u1103\'ff\~\u1093\'f5\u1088\'f0\u1072\'e0\u1085\'ed\u1077\'e5\u1085\'ed\u1080\'e8\u1103\'ff\~\u1086\'ee\u1087\'ef\u1077\'e5\u1088\'f0\u1072\'e0\u1094\'f6\u1080\'e8\u1086\'ee\u1085\'ed\u1085\'ed\u1086\'ee\u1081\'e9\~\u1089\'f1\u1080\'e8\u1089\'f1\u1090\'f2\u1077\'e5\u1084\'ec\u1099\'fb, \u1087\'ef\u1088\'f0\u1086\'ee\u1075\'e3\u1088\'f0\u1072\'e0\u1084\'ec\u1084\'ec \u1080\'e8 \u1087\'ef\u1086\'ee\u1083\'eb\u1100\'fc\u1079\'e7\u1086\'ee\u1074\'e2\u1072\'e0\u1090\'f2\u1077\'e5\u1083\'eb\u1100\'fc\u1089\'f1\u1082\'ea\u1080\'e8\u1093\'f5 \u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1093\'f5.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\fi0\li0\lin0\ri0\rin0\sb0\sa0{\loch
+\tab 2.\~}{\loch\b\loch
+\u1058\'d2\u1080\'e8\u1087\'ef\u1099\'fb\~\u1079\'e7\u1072\'e0\u1087\'ef\u1086\'ee\u1084\'ec\u1080\'e8\u1085\'ed\u1072\'e0\u1102\'fe\u1097\'f9\u1080\'e8\u1093\'f5 \u1091\'f3\u1089\'f1\u1090\'f2\u1088\'f0\u1086\'ee\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2}{\loch
+:}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af7 \ltrch\hich\af7\loch\f7\dbch\af7 \u9642\'3f\tab}\ilvl2\ls19 \fi-360\li1440\lin1440\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\rtlch\ai\ab0 \ltrch\loch\i\ulnone\ulc0\b0\loch
+\u1052\'cc\u1072\'e0\u1075\'e3\u1085\'ed\u1080\'e8\u1090\'f2\u1085\'ed\u1099\'fb\u1077\'e5}{\loch
+: \u1046\'c6\u1077\'e5\u1089\'f1\u1090\'f2\u1082\'ea\u1080\'e8\u1077\'e5\~\u1076\'e4\u1080\'e8\u1089\'f1\u1082\'ea\u1080\'e8, \u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1099\'fb\u1077\'e5\~\u1080\'e8\u1089\'f1\u1087\'ef\u1086\'ee\u1083\'eb\u1100\'fc\u1079\'e7\u1091\'f3\u1102\'fe\u1090\'f2 \u1084\'ec\u1072\'e0\u1075\'e3\u1085\'ed\u1080\'e8\u1090\'f2\u1085\'ed\u1099\'fb\u1077\'e5 \u1087\'ef\u1083\'eb\u1072\'e0\u1089\'f1\u1090\'f2\u1080\'e8\u1085\'ed\u1099\'fb\~\u1076\'e4\u1083\'eb\u1103\'ff\~\u1093\'f5\u1088\'f0\u1072\'e0\u1085\'ed\u1077\'e5\u1085\'ed\u1080\'e8\u1103\'ff \u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1093\'f5.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af7 \ltrch\hich\af7\loch\f7\dbch\af7 \u9642\'3f\tab}\ilvl2\ls19 \fi-360\li1440\lin1440\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\rtlch\ai\ab0 \ltrch\loch\i\ulnone\ulc0\b0\loch
+\u1055\'cf}{\rtlch\ai\ab0 \ltrch\loch\i\ulnone\ulc0\b0\loch
+\u1086\'ee\u1083\'eb\u1091\'f3\u1087\'ef\u1088\'f0\u1086\'ee\u1074\'e2\u1086\'ee\u1076\'e4\u1085\'ed\u1080\'e8\u1082\'ea\u1086\'ee\u1074\'e2\u1099\'fb\u1077\'e5}{\loch
+: \u1058\'d2\u1074\'e2\u1077\'e5\u1088\'f0\u1076\'e4\u1086\'ee\u1090\'f2\u1077\'e5\u1083\'eb\u1100\'fc\u1085\'ed\u1099\'fb\u1077\'e5 \u1085\'ed\u1072\'e0\u1082\'ea\u1086\'ee\u1087\'ef\u1080\'e8\u1090\'f2\u1077\'e5\u1083\'eb\u1080\'e8\~(SSD), \u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1099\'fb\u1077\'e5\~\u1080\'e8\u1089\'f1\u1087\'ef\u1086\'ee\u1083\'eb\u1100\'fc\u1079\'e7\u1091\'f3\u1102\'fe\u1090\'f2\~\u1092\'f4\u1083\'eb\u1077\'e5\u1096\'f8-\u1087\'ef\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1100\'fc \u1076\'e4\u1083\'eb\u1103\'ff\~\u1093\'f5\u1088\'f0\u1072\'e0\u1085\'ed\u1077\'e5\u1085\'ed\u1080\'e8\u1103\'ff \u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1093\'f5.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af7 \ltrch\hich\af7\loch\f7\dbch\af7 \u9642\'3f\tab}\ilvl2\ls19 \fi-360\li1440\lin1440\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\rtlch\ai\ab0 \ltrch\loch\i\ulnone\ulc0\b0\loch
+\u1054\'ce\u1087\'ef\u1090\'f2\u1080\'e8\u1095\'f7\u1077\'e5\u1089\'f1\u1082\'ea\u1080\'e8\u1077\'e5}{\loch
+: CD, DVD \u1080\'e8\~Blu-ray\~\u1076\'e4\u1080\'e8\u1089\'f1\u1082\'ea\u1080\'e8, \u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1099\'fb\u1077\'e5 \u1080\'e8\u1089\'f1\u1087\'ef\u1086\'ee\u1083\'eb\u1100\'fc\u1079\'e7\u1091\'f3\u1102\'fe\u1090\'f2\~\u1083\'eb\u1072\'e0\u1079\'e7\u1077\'e5\u1088\'f0\~\u1076\'e4\u1083\'eb\u1103\'ff \u1095\'f7\u1090\'f2\u1077\'e5\u1085\'ed\u1080\'e8\u1103\'ff\~\u1080\'e8\~\u1079\'e7\u1072\'e0\u1087\'ef\u1080\'e8\u1089\'f1\u1080\'e8\~\u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1093\'f5.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\fi0\li0\lin0\ri0\rin0\sb0\sa0{\loch
+\line }
+\par \pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\qj\loch
+
+\par \pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\qc{\rtlch\afs28\ai0\ab0 \ltrch\loch\fs28\i0\ulnone\ulc0\b0\loch
+2. \u1040\'c0\u1088\'f0\u1093\'f5\u1080\'e8\u1090\'f2\u1077\'e5\u1082\'ea\u1090\'f2\u1091\'f3\u1088\'f0\u1072\'e0 \u1092\'f4\u1086\'ee\u1085\'ed \u1053\'cd\u1077\'e5\u1081\'e9\u1084\'ec\u1072\'e0\u1085\'ed\u1072\'e0}
+\par \pard\plain \s0\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\qj\loch
+
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\qj{\rtlch\ai0\ab \ltrch\loch\i0\ulnone\ulc0\b\loch
+\u1062\'d6\u1077\'e5\u1085\'ed\u1090\'f2\u1088\'f0\u1072\'e0\u1083\'eb\u1100\'fc\u1085\'ed\u1099\'fb\u1081\'e9 \u1087\'ef\u1088\'f0\u1086\'ee\u1094\'f6\u1077\'e5\u1089\'f1\u1089\'f1\u1086\'ee\u1088\'f0\~(\u1086\'ee\u1089\'f1\u1085\'ed\u1086\'ee\u1074\'e2\u1085\'ed\u1086\'ee\u1081\'e9\~\u1101\'fd\u1083\'eb\u1077\'e5\u1084\'ec\u1077\'e5\u1085\'ed\u1090\'f2, \u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1099\'fb\u1081\'e9 \u1074\'e2\u1099\'fb\u1087\'ef\u1086\'ee\u1083\'eb\u1085\'ed\u1103\'ff\u1077\'e5\u1090\'f2 \u1074\'e2\u1099\'fb\u1095\'f7\u1080\'e8\u1089\'f1\u1083\'eb\u1077\'e5\u1085\'ed\u1080\'e8\u1103\'ff \u1080\'e8 \u1091\'f3\u1087\'ef\u1088\'f0\u1072\'e0\u1074\'e2\u1083\'eb\u1103\'ff\u1077\'e5\u1090\'f2\~\u1088\'f0\u1072\'e0\u1073\'e1\u1086\'ee\u1090\'f2\u1086\'ee\u1081\'e9\~\u1076\'e4\u1088\'f0\u1091\'f3\u1075\'e3\u1080\'e8\u1093\'f5 \u1082\'ea\u1086\'ee\u1084\'ec\u1087\'ef\u1086\'ee\u1085\'ed\u1077\'e5\u1085\'ed\u1090\'f2\u1086\'ee\u1074\'e2):}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch \u8226\'95\tab}\ilvl0\ls1 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\rtlch\ab0 \ltrch\loch\ul\ulc0\b0\loch
+\u1040\'c0\u1088\'f0\u1080\'e8\u1092\'f4\u1084\'ec\u1077\'e5\u1090\'f2\u1080\'e8\u1082\'ea\u1086\'ee-\u1083\'eb\u1086\'ee\u1075\'e3\u1080\'e8\u1095\'f7\u1077\'e5\u1089\'f1\u1082\'ea\u1086\'ee\u1077\'e5 \u1091\'f3\u1089\'f1\u1090\'f2\u1088\'f0\u1086\'ee\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2\u1086\'ee (\u1040\'c0\u1051\'cb\u1059\'d3):}{\loch
+ \u1042\'c2\u1099\'fb\u1087\'ef\u1086\'ee\u1083\'eb\u1085\'ed\u1103\'ff\u1077\'e5\u1090\'f2\~\u1072\'e0\u1088\'f0\u1080\'e8\u1092\'f4\u1084\'ec\u1077\'e5\u1090\'f2\u1080\'e8\u1095\'f7\u1077\'e5\u1089\'f1\u1082\'ea\u1080\'e8\u1077\'e5\~\u1080\'e8 \u1083\'eb\u1086\'ee\u1075\'e3\u1080\'e8\u1095\'f7\u1077\'e5\u1089\'f1\u1082\'ea\u1080\'e8\u1077\'e5 \u1086\'ee\u1087\'ef\u1077\'e5\u1088\'f0\u1072\'e0\u1094\'f6\u1080\'e8\u1080\'e8.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch \u8226\'95\tab}\ilvl0\ls2 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\rtlch\ab0 \ltrch\loch\ul\ulc0\b0\loch
+\u1059\'d3\u1087\'ef\u1088\'f0\u1072\'e0\u1074\'e2\u1083\'eb\u1103\'ff\u1102\'fe\u1097\'f9\u1077\'e5\u1077\'e5 \u1091\'f3\u1089\'f1\u1090\'f2\u1088\'f0\u1086\'ee\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2\u1086\'ee\~(\u1059\'d3\u1059\'d3):}{\loch
+ \u1059\'d3\u1087\'ef\u1088\'f0\u1072\'e0\u1074\'e2\u1083\'eb\u1103\'ff\u1077\'e5\u1090\'f2\~\u1074\'e2\u1099\'fb\u1087\'ef\u1086\'ee\u1083\'eb\u1085\'ed\u1077\'e5\u1085\'ed\u1080\'e8\u1077\'e5\u1084\'ec \u1080\'e8\u1085\'ed\u1089\'f1\u1090\'f2\u1088\'f0\u1091\'f3\u1082\'ea\u1094\'f6\u1080\'e8\u1081\'e9, \u1080\'e8\u1079\'e7\u1074\'e2\u1083\'eb\u1077\'e5\u1082\'ea\u1072\'e0\u1103\'ff\~\u1080\'e8\u1093\'f5 \u1080\'e8\u1079\'e7\~\u1087\'ef\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1080\'e8 \u1080\'e8\~\u1076\'e4\u1077\'e5\u1082\'ea\u1086\'ee\u1076\'e4\u1080\'e8\u1088\'f0\u1091\'f3\u1103\'ff.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\rtlch\ab \ltrch\loch\b\loch
+\u1055\'cf\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1100\'fc (\u1093\'f5\u1088\'f0\u1072\'e0\u1085\'ed\u1080\'e8\u1090\'f2 \u1080\'e8\u1085\'ed\u1089\'f1\u1090\'f2\u1088\'f0\u1091\'f3\u1082\'ea\u1094\'f6\u1080\'e8\u1080\'e8 \u1080\'e8 \u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1077\'e5, \u1085\'ed\u1077\'e5\u1086\'ee\u1073\'e1\u1093\'f5\u1086\'ee\u1076\'e4\u1080\'e8\u1084\'ec\u1099\'fb\u1077\'e5\~\u1076\'e4\u1083\'eb\u1103\'ff \u1074\'e2\u1099\'fb\u1087\'ef\u1086\'ee\u1083\'eb\u1085\'ed\u1077\'e5\u1085\'ed\u1080\'e8\u1103\'ff \u1087\'ef\u1088\'f0\u1086\'ee\u1075\'e3\u1088\'f0\u1072\'e0\u1084\'ec\u1084\'ec):}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch \u8226\'95\tab}\ilvl0\ls3 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1061\'d5\u1088\'f0\u1072\'e0\u1085\'ed\u1080\'e8\u1090\'f2 \u1082\'ea\u1072\'e0\u1082\'ea\~\u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1077\'e5, \u1090\'f2\u1072\'e0\u1082\'ea \u1080\'e8\~\u1080\'e8\u1085\'ed\u1089\'f1\u1090\'f2\u1088\'f0\u1091\'f3\u1082\'ea\u1094\'f6\u1080\'e8\u1080\'e8 \u1087\'ef\u1088\'f0\u1086\'ee\u1075\'e3\u1088\'f0\u1072\'e0\u1084\'ec\u1084\'ec\u1099\'fb. \u1055\'cf\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1100\'fc\~\u1086\'ee\u1088\'f0\u1075\'e3\u1072\'e0\u1085\'ed\u1080\'e8\u1079\'e7\u1086\'ee\u1074\'e2\u1072\'e0\u1085\'ed\u1072\'e0 \u1074\'e2 \u1074\'e2\u1080\'e8\u1076\'e4\u1077\'e5\~\u1072\'e0\u1076\'e4\u1088\'f0\u1077\'e5\u1089\'f1\u1091\'f3\u1077\'e5\u1084\'ec\u1099\'fb\u1093\'f5 \u1103\'ff\u1095\'f7\u1077\'e5\u1077\'e5\u1082\'ea, \u1082\'ea\u1072\'e0\u1078\'e6\u1076\'e4\u1072\'e0\u1103\'ff \u1080\'e8\u1079\'e7\~\u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1099\'fb\u1093\'f5 \u1080\'e8\u1084\'ec\u1077\'e5\u1077\'e5\u1090\'f2 \u1091\'f3\u1085\'ed\u1080\'e8\u1082\'ea\u1072\'e0\u1083\'eb\u1100\'fc\u1085\'ed\u1099\'fb\u1081\'e9 \u1072\'e0\u1076\'e4\u1088\'f0\u1077\'e5\u1089\'f1.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\rtlch\ab \ltrch\loch\b\loch
+\u1059\'d3\u1089\'f1\u1090\'f2\u1088\'f0\u1086\'ee\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2\u1072\'e0 \u1074\'e2\u1074\'e2\u1086\'ee\u1076\'e4\u1072\'e0/\u1074\'e2\u1099\'fb\u1074\'e2\u1086\'ee\u1076\'e4\u1072\'e0 (\u1087\'ef\u1086\'ee\u1079\'e7\u1074\'e2\u1086\'ee\u1083\'eb\u1103\'ff\u1102\'fe\u1090\'f2\~\u1087\'ef\u1086\'ee\u1083\'eb\u1100\'fc\u1079\'e7\u1086\'ee\u1074\'e2\u1072\'e0\u1090\'f2\u1077\'e5\u1083\'eb\u1102\'fe \u1074\'e2\u1079\'e7\u1072\'e0\u1080\'e8\u1084\'ec\u1086\'ee\u1076\'e4\u1077\'e5\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2\u1086\'ee\u1074\'e2\u1072\'e0\u1090\'f2\u1100\'fc \u1089\'f1 \u1082\'ea\u1086\'ee\u1084\'ec\u1087\'ef\u1100\'fc\u1102\'fe\u1090\'f2\u1077\'e5\u1088\'f0\u1086\'ee\u1084\'ec\~\u1080\'e8 \u1087\'ef\u1086\'ee\u1083\'eb\u1091\'f3\u1095\'f7\u1072\'e0\u1090\'f2\u1100\'fc \u1088\'f0\u1077\'e5\u1079\'e7\u1091\'f3\u1083\'eb\u1100\'fc\u1090\'f2\u1072\'e0\u1090\'f2\u1099\'fb \u1088\'f0\u1072\'e0\u1073\'e1\u1086\'ee\u1090\'f2\u1099\'fb\~\u1087\'ef\u1088\'f0\u1086\'ee\u1075\'e3\u1088\'f0\u1072\'e0\u1084\'ec\u1084\'ec):}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch \u8226\'95\tab}\ilvl0\ls4 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1054\'ce\u1073\'e1\u1077\'e5\u1089\'f1\u1087\'ef\u1077\'e5\u1095\'f7\u1080\'e8\u1074\'e2\u1072\'e0\u1102\'fe\u1090\'f2 \u1074\'e2\u1079\'e7\u1072\'e0\u1080\'e8\u1084\'ec\u1086\'ee\u1076\'e4\u1077\'e5\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2\u1080\'e8\u1077\'e5 \u1082\'ea\u1086\'ee\u1084\'ec\u1087\'ef\u1100\'fc\u1102\'fe\u1090\'f2\u1077\'e5\u1088\'f0\u1072\'e0 \u1089\'f1 \u1074\'e2\u1085\'ed\u1077\'e5\u1096\'f8\u1085\'ed\u1080\'e8\u1084\'ec\u1080\'e8\~\u1091\'f3\u1089\'f1\u1090\'f2\u1088\'f0\u1086\'ee\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2\u1072\'e0\u1084\'ec\u1080\'e8, \u1090\'f2\u1072\'e0\u1082\'ea\u1080\'e8\u1084\'ec\u1080\'e8 \u1082\'ea\u1072\'e0\u1082\'ea \u1082\'ea\u1083\'eb\u1072\'e0\u1074\'e2\u1080\'e8\u1072\'e0\u1090\'f2\u1091\'f3\u1088\'f0\u1072\'e0, \u1084\'ec\u1086\'ee\u1085\'ed\u1080\'e8\u1090\'f2\u1086\'ee\u1088\'f0, \u1087\'ef\u1088\'f0\u1080\'e8\u1085\'ed\u1090\'f2\u1077\'e5\u1088\'f0 \u1080\'e8\~\u1090\'f2.\u1076\'e4.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\rtlch\ab \ltrch\loch\b\loch
+\u1064\'d8\u1080\'e8\u1085\'ed\u1072\'e0 (\u1086\'ee\u1073\'e1\u1077\'e5\u1089\'f1\u1087\'ef\u1077\'e5\u1095\'f7\u1080\'e8\u1074\'e2\u1072\'e0\u1077\'e5\u1090\'f2\~\u1089\'f1\u1074\'e2\u1103\'ff\u1079\'e7\u1100\'fc \u1084\'ec\u1077\'e5\u1078\'e6\u1076\'e4\u1091\'f3\~\u1074\'e2\u1089\'f1\u1077\'e5\u1084\'ec\u1080\'e8 \u1082\'ea\u1086\'ee\u1084\'ec\u1087\'ef\u1086\'ee\u1085\'ed\u1077\'e5\u1085\'ed\u1090\'f2\u1072\'e0\u1084\'ec\u1080\'e8\~\u1089\'f1\u1080\'e8\u1089\'f1\u1090\'f2\u1077\'e5\u1084\'ec\u1099\'fb, \u1087\'ef\u1086\'ee\u1079\'e7\u1074\'e2\u1086\'ee\u1083\'eb\u1103\'ff\u1103\'ff \u1080\'e8\u1084\'ec\~\u1086\'ee\u1073\'e1\u1084\'ec\u1077\'e5\u1085\'ed\u1080\'e8\u1074\'e2\u1072\'e0\u1090\'f2\u1100\'fc\u1089\'f1\u1103\'ff\~\u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1084\'ec\u1080\'e8):}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch \u8226\'95\tab}\ilvl0\ls5 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1057\'d1\u1080\'e8\u1089\'f1\u1090\'f2\u1077\'e5\u1084\'ec\u1072\'e0 \u1087\'ef\u1088\'f0\u1086\'ee\u1074\'e2\u1086\'ee\u1076\'e4\u1086\'ee\u1074\'e2, \u1087\'ef\u1086\'ee \u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1099\'fb\u1084\'ec\~\u1087\'ef\u1077\'e5\u1088\'f0\u1077\'e5\u1076\'e4\u1072\'e0\u1102\'fe\u1090\'f2\u1089\'f1\u1103\'ff\~\u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1077\'e5\~\u1084\'ec\u1077\'e5\u1078\'e6\u1076\'e4\u1091\'f3 \u1088\'f0\u1072\'e0\u1079\'e7\u1083\'eb\u1080\'e8\u1095\'f7\u1085\'ed\u1099\'fb\u1084\'ec\u1080\'e8\~\u1082\'ea\u1086\'ee\u1084\'ec\u1087\'ef\u1086\'ee\u1085\'ed\u1077\'e5\u1085\'ed\u1090\'f2\u1072\'e0\u1084\'ec\u1080\'e8 \u1089\'f1\u1080\'e8\u1089\'f1\u1090\'f2\u1077\'e5\u1084\'ec\u1099\'fb. \u1057\'d1\u1091\'f3\u1097\'f9\u1077\'e5\u1089\'f1\u1090\'f2\u1074\'e2\u1091\'f3\u1077\'e5\u1090\'f2 \u1085\'ed\u1077\'e5\u1089\'f1\u1082\'ea\u1086\'ee\u1083\'eb\u1100\'fc\u1082\'ea\u1086\'ee \u1090\'f2\u1080\'e8\u1087\'ef\u1086\'ee\u1074\'e2\~\u1096\'f8\u1080\'e8\u1085\'ed: \u1072\'e0\u1076\'e4\u1088\'f0\u1077\'e5\u1089\'f1\u1085\'ed\u1072\'e0\u1103\'ff, \u1076\'e4\u1072\'e0\u1085\'ed\u1085\'ed\u1099\'fb\u1077\'e5\~\u1080\'e8 \u1091\'f3\u1087\'ef\u1088\'f0\u1072\'e0\u1074\'e2\u1083\'eb\u1103\'ff\u1102\'fe\u1097\'f9\u1072\'e0\u1103\'ff.}
+\par \pard\plain \s3\rtlch\af11\afs28\alang1081\ab \ltrch\lang1049\langfe2052\hich\af4\loch\ql\nowidctlpar\hyphpar0\sb140\sa120\keepn\ltrpar\cf0\f4\fs28\lang1049\b\kerning1\dbch\af8\langfe2052\fi0\li0\lin0\ri0\rin0\sb0\sa0\rtlch\afs24 \ltrch\loch\fs24\loch
+
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0{\loch
+\u1040\'c0\u1088\'f0\u1093\'f5\u1080\'e8\u1090\'f2\u1077\'e5\u1082\'ea\u1090\'f2\u1091\'f3\u1088\'f0\u1072\'e0 \u1092\'f4\u1086\'ee\u1085\'ed \u1053\'cd\u1077\'e5\u1081\'e9\u1084\'ec\u1072\'e0\u1085\'ed\u1072\'e0\~\u1089\'f1\u1090\'f2\u1072\'e0\u1083\'eb\u1072\'e0 \u1086\'ee\u1089\'f1\u1085\'ed\u1086\'ee\u1074\'e2\u1086\'ee\u1081\'e9 \u1076\'e4\u1083\'eb\u1103\'ff\~\u1088\'f0\u1072\'e0\u1079\'e7\u1088\'f0\u1072\'e0\u1073\'e1\u1086\'ee\u1090\'f2\u1082\'ea\u1080\'e8 \u1084\'ec\u1085\'ed\u1086\'ee\u1075\'e3\u1080\'e8\u1093\'f5 \u1089\'f1\u1086\'ee\u1074\'e2\u1088\'f0\u1077\'e5\u1084\'ec\u1077\'e5\u1085\'ed\u1085\'ed\u1099\'fb\u1093\'f5 \u1074\'e2\u1099\'fb\u1095\'f7\u1080\'e8\u1089\'f1\u1083\'eb\u1080\'e8\u1090\'f2\u1077\'e5\u1083\'eb\u1100\'fc\u1085\'ed\u1099\'fb\u1093\'f5 \u1089\'f1\u1080\'e8\u1089\'f1\u1090\'f2\u1077\'e5\u1084\'ec\~\u1080\'e8\~\u1087\'ef\u1088\'f0\u1086\'ee\u1076\'e4\u1086\'ee\u1083\'eb\u1078\'e6\u1072\'e0\u1077\'e5\u1090\'f2 \u1080\'e8\u1089\'f1\u1087\'ef\u1086\'ee\u1083\'eb\u1100\'fc\u1079\'e7\u1086\'ee\u1074\'e2\u1072\'e0\u1090\'f2\u1100\'fc\u1089\'f1\u1103\'ff\~\u1074\'e2\~\u1088\'f0\u1072\'e0\u1079\'e7\u1083\'eb\u1080\'e8\u1095\'f7\u1085\'ed\u1099\'fb\u1093\'f5 \u1092\'f4\u1086\'ee\u1088\'f0\u1084\'ec\u1072\'e0\u1093\'f5. }
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0\loch
+
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0\loch
+
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0\loch
+
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0\loch
+
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0\loch
+
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\qc\fi0\li0\lin0\ri0\rin0\sb0\sa0{\rtlch\afs28 \ltrch\loch\fs28\loch
+3. \u1054\'ce\u1089\'f1\u1085\'ed\u1086\'ee\u1074\'e2\u1085\'ed\u1099\'fb\u1077\'e5 \u1093\'f5\u1072\'e0\u1088\'f0\u1072\'e0\u1082\'ea\u1090\'f2\u1077\'e5\u1088\'f0\u1080\'e8\u1089\'f1\u1090\'f2\u1080\'e8\u1082\'ea\u1080\'e8 \u1087\'ef\u1077\'e5\u1088\'f0\u1089\'f1\u1086\'ee\u1085\'ed\u1072\'e0\u1083\'eb\u1100\'fc\u1085\'ed\u1099\'fb\u1093\'f5 \u1101\'fd\u1083\'eb\u1077\'e5\u1082\'ea\u1090\'f2\u1088\'f0\u1086\'ee\u1085\'ed\u1085\'ed\u1099\'fb\u1093\'f5 \u1074\'e2\u1099\'fb\u1095\'f7\u1080\'e8\u1089\'f1\u1083\'eb\u1080\'e8\u1090\'f2\u1077\'e5\u1083\'eb\u1100\'fc\u1085\'ed\u1099\'fb\u1093\'f5 \u1084\'ec\u1072\'e0\u1096\'f8\u1080\'e8\u1085\'ed (\u1055\'cf\u1069\'dd\u1042\'c2\u1052\'cc)}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\qc\fi0\li0\lin0\ri0\rin0\sb0\sa0\loch
+
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch\b\loch
+1. \u1055\'cf\u1088\'f0\u1086\'ee\u1080\'e8\u1079\'e7\u1074\'e2\u1086\'ee\u1076\'e4\u1080\'e8\u1090\'f2\u1077\'e5\u1083\'eb\u1100\'fc\u1085\'ed\u1086\'ee\u1089\'f1\u1090\'f2\u1100\'fc}{\loch
+:}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch\hich\af4\loch\f4 \u8226\'95\tab}\ilvl0\ls6 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1048\'c8\u1079\'e7\u1084\'ec\u1077\'e5\u1088\'f0\u1103\'ff\u1077\'e5\u1090\'f2\u1089\'f1\u1103\'ff\~\u1074\'e2\~\u1084\'ec\u1080\'e8\u1083\'eb\u1083\'eb\u1080\'e8\u1086\'ee\u1085\'ed\u1072\'e0\u1093\'f5 \u1086\'ee\u1087\'ef\u1077\'e5\u1088\'f0\u1072\'e0\u1094\'f6\u1080\'e8\u1081\'e9 \u1074\'e2\~\u1089\'f1\u1077\'e5\u1082\'ea\u1091\'f3\u1085\'ed\u1076\'e4\u1091\'f3\~(MIPS) \u1080\'e8\u1083\'eb\u1080\'e8 \u1074\'e2\~\u1084\'ec\u1080\'e8\u1083\'eb\u1083\'eb\u1080\'e8\u1072\'e0\u1088\'f0\u1076\'e4\u1072\'e0\u1093\'f5 \u1086\'ee\u1087\'ef\u1077\'e5\u1088\'f0\u1072\'e0\u1094\'f6\u1080\'e8\u1081\'e9\~\u1074\'e2\~\u1089\'f1\u1077\'e5\u1082\'ea\u1091\'f3\u1085\'ed\u1076\'e4\u1091\'f3\~(GOPS). \u1054\'ce\u1087\'ef\u1088\'f0\u1077\'e5\u1076\'e4\u1077\'e5\u1083\'eb\u1103\'ff\u1077\'e5\u1090\'f2, \u1089\'f1\u1082\'ea\u1086\'ee\u1083\'eb\u1100\'fc\u1082\'ea\u1086\'ee\~\u1074\'e2\u1099\'fb\u1095\'f7\u1080\'e8\u1089\'f1\u1083\'eb\u1077\'e5\u1085\'ed\u1080\'e8\u1081\'e9\~\u1084\'ec\u1086\'ee\u1078\'e6\u1077\'e5\u1090\'f2 \u1074\'e2\u1099\'fb\u1087\'ef\u1086\'ee\u1083\'eb\u1085\'ed\u1080\'e8\u1090\'f2\u1100\'fc\~\u1087\'ef\u1088\'f0\u1086\'ee\u1094\'f6\u1077\'e5\u1089\'f1\u1089\'f1\u1086\'ee\u1088\'f0 \u1079\'e7\u1072\'e0\~\u1077\'e5\u1076\'e4\u1080\'e8\u1085\'ed\u1080\'e8\u1094\'f6\u1091\'f3 \u1074\'e2\u1088\'f0\u1077\'e5\u1084\'ec\u1077\'e5\u1085\'ed\u1080\'e8.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0{\loch\b\loch
+2. \u1054\'ce\u1073\'e1\u1098\'fa\u1077\'e5\u1084\'ec\~\u1087\'ef\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1080\'e8}{\loch
+:}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch\hich\af4\loch\f4 \u8226\'95\tab}\ilvl0\ls7 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1054\'ce\u1073\'e1\u1098\'fa\u1077\'e5\u1084\'ec \u1086\'ee\u1087\'ef\u1077\'e5\u1088\'f0\u1072\'e0\u1090\'f2\u1080\'e8\u1074\'e2\u1085\'ed\u1086\'ee\u1081\'e9\~\u1087\'ef\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1080\'e8\~(\u1054\'ce\u1055\'cf) \u1080\'e8\~\u1087\'ef\u1086\'ee\u1089\'f1\u1090\'f2\u1086\'ee\u1103\'ff\u1085\'ed\u1085\'ed\u1086\'ee\u1081\'e9 \u1087\'ef\u1072\'e0\u1084\'ec\u1103\'ff\u1090\'f2\u1080\'e8 (\u1085\'ed\u1072\'e0\u1087\'ef\u1088\'f0\u1080\'e8\u1084\'ec\u1077\'e5\u1088\'f0, \u1078\'e6\u1077\'e5\u1089\'f1\u1090\'f2\u1082\'ea\u1080\'e8\u1081\'e9\~\u1076\'e4\u1080\'e8\u1089\'f1\u1082\'ea\~\u1080\'e8\u1083\'eb\u1080\'e8 SSD). \u1048\'c8\u1079\'e7\u1084\'ec\u1077\'e5\u1088\'f0\u1103\'ff\u1077\'e5\u1090\'f2\u1089\'f1\u1103\'ff\~\u1074\'e2 \u1075\'e3\u1080\'e8\u1075\'e3\u1072\'e0\u1073\'e1\u1072\'e0\u1081\'e9\u1090\'f2\u1072\'e0\u1093\'f5\~(\u1043\'c3\u1041\'c1) \u1080\'e8\u1083\'eb\u1080\'e8\~\u1090\'f2\u1077\'e5\u1088\'f0\u1072\'e0\u1073\'e1\u1072\'e0\u1081\'e9\u1090\'f2\u1072\'e0\u1093\'f5\~(\u1058\'d2\u1041\'c1).}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch\b\loch
+3. \u1058\'d2\u1072\'e0\u1082\'ea\u1090\'f2\u1086\'ee\u1074\'e2\u1072\'e0\u1103\'ff\~\u1095\'f7\u1072\'e0\u1089\'f1\u1090\'f2\u1086\'ee\u1090\'f2\u1072\'e0}{\loch
+:}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch\hich\af4\loch\f4 \u8226\'95\tab}\ilvl0\ls8 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1063\'d7\u1072\'e0\u1089\'f1\u1090\'f2\u1086\'ee\u1090\'f2\u1072\'e0, \u1089\'f1\~\u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1086\'ee\u1081\'e9\~\u1087\'ef\u1088\'f0\u1086\'ee\u1094\'f6\u1077\'e5\u1089\'f1\u1089\'f1\u1086\'ee\u1088\'f0 \u1074\'e2\u1099\'fb\u1087\'ef\u1086\'ee\u1083\'eb\u1085\'ed\u1103\'ff\u1077\'e5\u1090\'f2\~\u1080\'e8\u1085\'ed\u1089\'f1\u1090\'f2\u1088\'f0\u1091\'f3\u1082\'ea\u1094\'f6\u1080\'e8\u1080\'e8, \u1080\'e8\u1079\'e7\u1084\'ec\u1077\'e5\u1088\'f0\u1103\'ff\u1077\'e5\u1090\'f2\u1089\'f1\u1103\'ff \u1074\'e2\~\u1075\'e3\u1080\'e8\u1075\'e3\u1072\'e0\u1075\'e3\u1077\'e5\u1088\'f0\u1094\'f6\u1072\'e0\u1093\'f5\~(\u1043\'c3\u1043\'c3\u1094\'f6). \u1041\'c1\u1086\'ee\u1083\'eb\u1077\'e5\u1077\'e5\~\u1074\'e2\u1099\'fb\u1089\'f1\u1086\'ee\u1082\'ea\u1072\'e0\u1103\'ff \u1095\'f7\u1072\'e0\u1089\'f1\u1090\'f2\u1086\'ee\u1090\'f2\u1072\'e0 \u1086\'ee\u1073\'e1\u1099\'fb\u1095\'f7\u1085\'ed\u1086\'ee\~\u1086\'ee\u1079\'e7\u1085\'ed\u1072\'e0\u1095\'f7\u1072\'e0\u1077\'e5\u1090\'f2\~\u1073\'e1\u1086\'ee\u1083\'eb\u1077\'e5\u1077\'e5\~\u1074\'e2\u1099\'fb\u1089\'f1\u1086\'ee\u1082\'ea\u1091\'f3\u1102\'fe\~\u1087\'ef\u1088\'f0\u1086\'ee\u1080\'e8\u1079\'e7\u1074\'e2\u1086\'ee\u1076\'e4\u1080\'e8\u1090\'f2\u1077\'e5\u1083\'eb\u1100\'fc\u1085\'ed\u1086\'ee\u1089\'f1\u1090\'f2\u1100\'fc.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0{\loch\b\loch
+4. \u1040\'c0\u1088\'f0\u1093\'f5\u1080\'e8\u1090\'f2\u1077\'e5\u1082\'ea\u1090\'f2\u1091\'f3\u1088\'f0\u1072\'e0\~\u1087\'ef\u1088\'f0\u1086\'ee\u1094\'f6\u1077\'e5\u1089\'f1\u1089\'f1\u1086\'ee\u1088\'f0\u1072\'e0}{\loch
+:}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch\hich\af4\loch\f4 \u8226\'95\tab}\ilvl0\ls9 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1054\'ce\u1087\'ef\u1088\'f0\u1077\'e5\u1076\'e4\u1077\'e5\u1083\'eb\u1103\'ff\u1077\'e5\u1090\'f2, \u1082\'ea\u1072\'e0\u1082\'ea \u1086\'ee\u1088\'f0\u1075\'e3\u1072\'e0\u1085\'ed\u1080\'e8\u1079\'e7\u1086\'ee\u1074\'e2\u1072\'e0\u1085\'ed\u1099\'fb\~\u1080\'e8\~\u1074\'e2\u1079\'e7\u1072\'e0\u1080\'e8\u1084\'ec\u1086\'ee\u1076\'e4\u1077\'e5\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2\u1091\'f3\u1102\'fe\u1090\'f2 \u1082\'ea\u1086\'ee\u1084\'ec\u1087\'ef\u1086\'ee\u1085\'ed\u1077\'e5\u1085\'ed\u1090\'f2\u1099\'fb\~\u1087\'ef\u1088\'f0\u1086\'ee\u1094\'f6\u1077\'e5\u1089\'f1\u1089\'f1\u1086\'ee\u1088\'f0\u1072\'e0. \u1053\'cd\u1072\'e0\u1087\'ef\u1088\'f0\u1080\'e8\u1084\'ec\u1077\'e5\u1088\'f0, \u1072\'e0\u1088\'f0\u1093\'f5\u1080\'e8\u1090\'f2\u1077\'e5\u1082\'ea\u1090\'f2\u1091\'f3\u1088\'f0\u1099\'fb x86, ARM\~\u1080\'e8 \u1076\'e4\u1088\'f0\u1091\'f3\u1075\'e3\u1080\'e8\u1077\'e5.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0{\loch\b\loch
+5. \u1043\'c3\u1088\'f0\u1072\'e0\u1092\'f4\u1080\'e8\u1095\'f7\u1077\'e5\u1089\'f1\u1082\'ea\u1080\'e8\u1077\'e5\~\u1074\'e2\u1086\'ee\u1079\'e7\u1084\'ec\u1086\'ee\u1078\'e6\u1085\'ed\u1086\'ee\u1089\'f1\u1090\'f2\u1080\'e8}{\loch
+:}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch\hich\af4\loch\f4 \u8226\'95\tab}\ilvl0\ls10 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1061\'d5\u1072\'e0\u1088\'f0\u1072\'e0\u1082\'ea\u1090\'f2\u1077\'e5\u1088\'f0\u1080\'e8\u1079\'e7\u1091\'f3\u1102\'fe\u1090\'f2\u1089\'f1\u1103\'ff\~\u1085\'ed\u1072\'e0\u1083\'eb\u1080\'e8\u1095\'f7\u1080\'e8\u1077\'e5\u1084\'ec\~\u1074\'e2\u1089\'f1\u1090\'f2\u1088\'f0\u1086\'ee\u1077\'e5\u1085\'ed\u1085\'ed\u1086\'ee\u1081\'e9\~\u1080\'e8\u1083\'eb\u1080\'e8\~\u1076\'e4\u1080\'e8\u1089\'f1\u1082\'ea\u1088\'f0\u1077\'e5\u1090\'f2\u1085\'ed\u1086\'ee\u1081\'e9\~\u1074\'e2\u1080\'e8\u1076\'e4\u1077\'e5\u1086\'ee\u1082\'ea\u1072\'e0\u1088\'f0\u1090\'f2\u1099\'fb, \u1072\'e0\~\u1090\'f2\u1072\'e0\u1082\'ea\u1078\'e6\u1077\'e5 \u1087\'ef\u1086\'ee\u1076\'e4\u1076\'e4\u1077\'e5\u1088\'f0\u1078\'e6\u1082\'ea\u1086\'ee\u1081\'e9 \u1075\'e3\u1088\'f0\u1072\'e0\u1092\'f4\u1080\'e8\u1095\'f7\u1077\'e5\u1089\'f1\u1082\'ea\u1080\'e8\u1093\'f5\~\u1090\'f2\u1077\'e5\u1093\'f5\u1085\'ed\u1086\'ee\u1083\'eb\u1086\'ee\u1075\'e3\u1080\'e8\u1081\'e9 (\u1085\'ed\u1072\'e0\u1087\'ef\u1088\'f0\u1080\'e8\u1084\'ec\u1077\'e5\u1088\'f0, DirectX, OpenGL).}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0{\loch\b\loch
+6. \u1055\'cf\u1086\'ee\u1088\'f0\u1090\'f2\u1099\'fb\~\u1080\'e8\~\u1080\'e8\u1085\'ed\u1090\'f2\u1077\'e5\u1088\'f0\u1092\'f4\u1077\'e5\u1081\'e9\u1089\'f1\u1099\'fb}{\loch
+:}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch\hich\af4\loch\f4 \u8226\'95\tab}\ilvl0\ls11 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1053\'cd\u1072\'e0\u1083\'eb\u1080\'e8\u1095\'f7\u1080\'e8\u1077\'e5\~\u1088\'f0\u1072\'e0\u1079\'e7\u1083\'eb\u1080\'e8\u1095\'f7\u1085\'ed\u1099\'fb\u1093\'f5 \u1087\'ef\u1086\'ee\u1088\'f0\u1090\'f2\u1086\'ee\u1074\'e2\~(USB, HDMI, Ethernet\~\u1080\'e8\~\u1090\'f2.\u1076\'e4.) \u1076\'e4\u1083\'eb\u1103\'ff\~\u1087\'ef\u1086\'ee\u1076\'e4\u1082\'ea\u1083\'eb\u1102\'fe\u1095\'f7\u1077\'e5\u1085\'ed\u1080\'e8\u1103\'ff \u1074\'e2\u1085\'ed\u1077\'e5\u1096\'f8\u1085\'ed\u1080\'e8\u1093\'f5\~\u1091\'f3\u1089\'f1\u1090\'f2\u1088\'f0\u1086\'ee\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2\~\u1080\'e8 \u1089\'f1\u1077\'e5\u1090\'f2\u1077\'e5\u1081\'e9.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0{\loch\b\loch
+8. \u1069\'dd\u1085\'ed\u1077\'e5\u1088\'f0\u1075\'e3\u1086\'ee\u1087\'ef\u1086\'ee\u1090\'f2\u1088\'f0\u1077\'e5\u1073\'e1\u1083\'eb\u1077\'e5\u1085\'ed\u1080\'e8\u1077\'e5}{\loch
+:}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch\hich\af4\loch\f4 \u8226\'95\tab}\ilvl0\ls12 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1050\'ca\u1086\'ee\u1083\'eb\u1080\'e8\u1095\'f7\u1077\'e5\u1089\'f1\u1090\'f2\u1074\'e2\u1086\'ee\~\u1101\'fd\u1085\'ed\u1077\'e5\u1088\'f0\u1075\'e3\u1080\'e8\u1080\'e8, \u1087\'ef\u1086\'ee\u1090\'f2\u1088\'f0\u1077\'e5\u1073\'e1\u1083\'eb\u1103\'ff\u1077\'e5\u1084\'ec\u1086\'ee\u1077\'e5 \u1089\'f1\u1080\'e8\u1089\'f1\u1090\'f2\u1077\'e5\u1084\'ec\u1086\'ee\u1081\'e9, \u1080\'e8\u1079\'e7\u1084\'ec\u1077\'e5\u1088\'f0\u1103\'ff\u1077\'e5\u1090\'f2\u1089\'f1\u1103\'ff \u1074\'e2\~\u1074\'e2\u1072\'e0\u1090\'f2\u1090\'f2\u1072\'e0\u1093\'f5\~(\u1042\'c2\u1090\'f2). \u1042\'c2\u1072\'e0\u1078\'e6\u1085\'ed\u1086\'ee\~\u1076\'e4\u1083\'eb\u1103\'ff\~\u1086\'ee\u1094\'f6\u1077\'e5\u1085\'ed\u1082\'ea\u1080\'e8 \u1101\'fd\u1092\'f4\u1092\'f4\u1077\'e5\u1082\'ea\u1090\'f2\u1080\'e8\u1074\'e2\u1085\'ed\u1086\'ee\u1089\'f1\u1090\'f2\u1080\'e8\~\u1080\'e8 \u1091\'f3\u1089\'f1\u1090\'f2\u1086\'ee\u1081\'e9\u1095\'f7\u1080\'e8\u1074\'e2\u1086\'ee\u1089\'f1\u1090\'f2\u1080\'e8 \u1089\'f1\u1080\'e8\u1089\'f1\u1090\'f2\u1077\'e5\u1084\'ec\u1099\'fb.}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch\b\loch
+9. \u1056\'d0\u1072\'e0\u1079\'e7\u1084\'ec\u1077\'e5\u1088\'f0 \u1080\'e8\~\u1092\'f4\u1086\'ee\u1088\'f0\u1084\'ec-\u1092\'f4\u1072\'e0\u1082\'ea\u1090\'f2\u1086\'ee\u1088\'f0}{\loch
+:}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch\hich\af4\loch\f4 \u8226\'95\tab}\ilvl0\ls13 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1060\'d4\u1080\'e8\u1079\'e7\u1080\'e8\u1095\'f7\u1077\'e5\u1089\'f1\u1082\'ea\u1080\'e8\u1077\'e5\~\u1088\'f0\u1072\'e0\u1079\'e7\u1084\'ec\u1077\'e5\u1088\'f0\u1099\'fb\~\u1080\'e8 \u1092\'f4\u1086\'ee\u1088\'f0\u1084\'ec\u1072\'e0 \u1082\'ea\u1086\'ee\u1088\'f0\u1087\'ef\u1091\'f3\u1089\'f1\u1072\'e0\~\u1055\'cf\u1069\'dd\u1042\'c2\u1052\'cc, \u1082\'ea\u1086\'ee\u1090\'f2\u1086\'ee\u1088\'f0\u1099\'fb\u1077\'e5\~\u1084\'ec\u1086\'ee\u1075\'e3\u1091\'f3\u1090\'f2 \u1074\'e2\u1072\'e0\u1088\'f0\u1100\'fc\u1080\'e8\u1088\'f0\u1086\'ee\u1074\'e2\u1072\'e0\u1090\'f2\u1100\'fc\u1089\'f1\u1103\'ff\~\u1086\'ee\u1090\'f2\~\u1085\'ed\u1072\'e0\u1089\'f1\u1090\'f2\u1086\'ee\u1083\'eb\u1100\'fc\u1085\'ed\u1099\'fb\u1093\'f5\~\u1076\'e4\u1086\'ee\~\u1087\'ef\u1086\'ee\u1088\'f0\u1090\'f2\u1072\'e0\u1090\'f2\u1080\'e8\u1074\'e2\u1085\'ed\u1099\'fb\u1093\'f5\~(\u1085\'ed\u1086\'ee\u1091\'f3\u1090\'f2\u1073\'e1\u1091\'f3\u1082\'ea\u1086\'ee\u1074\'e2, \u1085\'ed\u1077\'e5\u1090\'f2\u1073\'e1\u1091\'f3\u1082\'ea\u1086\'ee\u1074\'e2).}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch\b\loch
+10. \u1054\'ce\u1087\'ef\u1077\'e5\u1088\'f0\u1072\'e0\u1094\'f6\u1080\'e8\u1086\'ee\u1085\'ed\u1085\'ed\u1072\'e0\u1103\'ff \u1089\'f1\u1080\'e8\u1089\'f1\u1090\'f2\u1077\'e5\u1084\'ec\u1072\'e0}{\loch
+:}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052{\listtext\pard\plain \rtlch\af10 \ltrch\hich\af4\loch\f4 \u8226\'95\tab}\ilvl0\ls14 \fi-283\li1440\lin1440\sl276\slmult1\tx0\fi-283\li720\lin720\ri0\rin0\sb0\sa0\brdrt\brdrnone\brdrl\brdrnone\brdrb\brdrnone\brdrr\brdrnone{\loch
+\u1055\'cf\u1088\'f0\u1086\'ee\u1075\'e3\u1088\'f0\u1072\'e0\u1084\'ec\u1084\'ec\u1085\'ed\u1086\'ee\u1077\'e5 \u1086\'ee\u1073\'e1\u1077\'e5\u1089\'f1\u1087\'ef\u1077\'e5\u1095\'f7\u1077\'e5\u1085\'ed\u1080\'e8\u1077\'e5, \u1091\'f3\u1087\'ef\u1088\'f0\u1072\'e0\u1074\'e2\u1083\'eb\u1103\'ff\u1102\'fe\u1097\'f9\u1077\'e5\u1077\'e5\~\u1072\'e0\u1087\'ef\u1087\'ef\u1072\'e0\u1088\'f0\u1072\'e0\u1090\'f2\u1085\'ed\u1099\'fb\u1084\'ec\u1080\'e8\~\u1088\'f0\u1077\'e5\u1089\'f1\u1091\'f3\u1088\'f0\u1089\'f1\u1072\'e0\u1084\'ec\u1080\'e8\~\u1080\'e8\~\u1086\'ee\u1073\'e1\u1077\'e5\u1089\'f1\u1087\'ef\u1077\'e5\u1095\'f7\u1080\'e8\u1074\'e2\u1072\'e0\u1102\'fe\u1097\'f9\u1077\'e5\u1077\'e5\~\u1074\'e2\u1079\'e7\u1072\'e0\u1080\'e8\u1084\'ec\u1086\'ee\u1076\'e4\u1077\'e5\u1081\'e9\u1089\'f1\u1090\'f2\u1074\'e2\u1080\'e8\u1077\'e5\~\u1087\'ef\u1086\'ee\u1083\'eb\u1100\'fc\u1079\'e7\u1086\'ee\u1074\'e2\u1072\'e0\u1090\'f2\u1077\'e5\u1083\'eb\u1103\'ff \u1089\'f1\~\u1082\'ea\u1086\'ee\u1084\'ec\u1087\'ef\u1100\'fc\u1102\'fe\u1090\'f2\u1077\'e5\u1088\'f0\u1086\'ee\u1084\'ec\~(\u1085\'ed\u1072\'e0\u1087\'ef\u1088\'f0\u1080\'e8\u1084\'ec\u1077\'e5\u1088\'f0, Windows, macOS, Linux).}
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0{\loch
+\u1069\'dd\u1090\'f2\u1080\'e8 \u1093\'f5\u1072\'e0\u1088\'f0\u1072\'e0\u1082\'ea\u1090\'f2\u1077\'e5\u1088\'f0\u1080\'e8\u1089\'f1\u1090\'f2\u1080\'e8\u1082\'ea\u1080\'e8 \u1087\'ef\u1086\'ee\u1084\'ec\u1086\'ee\u1075\'e3\u1072\'e0\u1102\'fe\u1090\'f2\~\u1087\'ef\u1086\'ee\u1083\'eb\u1100\'fc\u1079\'e7\u1086\'ee\u1074\'e2\u1072\'e0\u1090\'f2\u1077\'e5\u1083\'eb\u1103\'ff\u1084\'ec\~\u1080\'e8 \u1089\'f1\u1087\'ef\u1077\'e5\u1094\'f6\u1080\'e8\u1072\'e0\u1083\'eb\u1080\'e8\u1089\'f1\u1090\'f2\u1072\'e0\u1084\'ec\~\u1086\'ee\u1094\'f6\u1077\'e5\u1085\'ed\u1080\'e8\u1074\'e2\u1072\'e0\u1090\'f2\u1100\'fc \u1074\'e2\u1086\'ee\u1079\'e7\u1084\'ec\u1086\'ee\u1078\'e6\u1085\'ed\u1086\'ee\u1089\'f1\u1090\'f2\u1080\'e8\~\u1080\'e8\~\u1087\'ef\u1088\'f0\u1086\'ee\u1080\'e8\u1079\'e7\u1074\'e2\u1086\'ee\u1076\'e4\u1080\'e8\u1090\'f2\u1077\'e5\u1083\'eb\u1100\'fc\u1085\'ed\u1086\'ee\u1089\'f1\u1090\'f2\u1100\'fc\~\u1055\'cf\u1069\'dd\u1042\'c2\u1052\'cc \u1074\'e2\~\u1079\'e7\u1072\'e0\u1074\'e2\u1080\'e8\u1089\'f1\u1080\'e8\u1084\'ec\u1086\'ee\u1089\'f1\u1090\'f2\u1080\'e8\~\u1086\'ee\u1090\'f2\~\u1080\'e8\u1093\'f5 \u1087\'ef\u1086\'ee\u1090\'f2\u1088\'f0\u1077\'e5\u1073\'e1\u1085\'ed\u1086\'ee\u1089\'f1\u1090\'f2\u1077\'e5\u1081\'e9. }
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\fi0\li0\lin0\ri0\rin0\sb0\sa0\loch
+
+\par \pard\plain \s225\rtlch\af11\afs24\alang1081 \ltrch\lang1049\langfe2052\hich\af4\loch\sl276\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf0\f4\fs24\lang1049\kerning1\dbch\af8\langfe2052\sl276\slmult1\qc\fi0\li0\lin0\ri0\rin0\sb0\sa0\rtlch\afs28 \ltrch\loch\fs28\loch
+
+\par }
