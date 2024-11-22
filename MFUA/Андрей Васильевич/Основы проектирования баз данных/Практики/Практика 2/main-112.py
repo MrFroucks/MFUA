@@ -1,6 +1,6 @@
 import sqlite3 as sq
 
-db = sq.connect("database3.db")
+db = sq.connect(r"C:\Users\User\Documents\MFUA\MFUA\Андрей Васильевич\Основы проектирования баз данных\Практики\Практика 2\database3.db")
 c = db.cursor()
 
 # создание базы данных R10
